@@ -5,13 +5,13 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.fk.example</groupId>
-  <artifactId>test1</artifactId>
+  <artifactId>t2</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>test1 Maven Webapp</name>
+  <name>t2 Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
-<!--  <url>http://www.example.com</url>-->
+  <url>http://www.example.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -29,7 +29,7 @@
   </dependencies>
 
   <build>
-    <finalName>test1</finalName>
+    <finalName>t2</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
